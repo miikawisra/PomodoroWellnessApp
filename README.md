@@ -9,3 +9,6 @@ To be honest. I have never touched React and I made a lot of mistakes at the sta
 Very exited about this.
 
 -Miika
+
+NOTE:
+Will connect web app to a mobile version in short future.
