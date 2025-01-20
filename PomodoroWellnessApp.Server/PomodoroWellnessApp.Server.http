@@ -1,0 +1,6 @@
+@PomodoroWellnessApp.Server_HostAddress = http://localhost:5148
+
+GET {{PomodoroWellnessApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
